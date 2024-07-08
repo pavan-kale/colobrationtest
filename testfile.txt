@@ -1,1 +1,2 @@
 this was simple line added
+second line change in the file
